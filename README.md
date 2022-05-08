@@ -8,4 +8,5 @@ My system sometimes freezes up if intel undervolt starts on boot so that is anot
 
 
 TLP and Powertop can be found in your package manager
+
 Intel undervolt: https://github.com/georgewhewell/undervolt
